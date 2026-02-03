@@ -49,6 +49,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Innings.cs" />
+    <Compile Include="Services\BallService.cs" />
+    <Compile Include="Services\ScoreboardService.cs" />
     <Compile Include="Services\TossService.cs" />
   </ItemGroup>
   <ItemGroup>

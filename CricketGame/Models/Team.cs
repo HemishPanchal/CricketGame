@@ -4,15 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace CricketGame.Models
 {
     internal class Team
     {
-        public string TeamName;
+        public string Name;
 
-        List<Player> Players = new List<Player>();
+        // Players in batting order
+        public List<Player> Players;
 
-        public int TotalRuns;
-        public int Wickets;
+        // Derived list: only bowlers
+        public List<Player> Bowlers
+        {
+            get
+            {
+                return Players.Where(p => p.IsBowler).ToList();
+            }
+        }
     }
 }
