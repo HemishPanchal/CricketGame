@@ -1,0 +1,14 @@
+D:\CricketGame-master\CricketGame\bin\Debug\CricketGame.exe.config
+D:\CricketGame-master\CricketGame\bin\Debug\CricketGame.exe
+D:\CricketGame-master\CricketGame\bin\Debug\CricketGame.pdb
+D:\CricketGame-master\CricketGame\obj\Debug\CricketGame.csproj.AssemblyReference.cache
+D:\CricketGame-master\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+D:\CricketGame-master\CricketGame\obj\Debug\CricketGame.exe
+D:\CricketGame-master\CricketGame\obj\Debug\CricketGame.pdb
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\bin\Debug\CricketGame.exe.config
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\bin\Debug\CricketGame.exe
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\bin\Debug\CricketGame.pdb
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\obj\Debug\CricketGame.csproj.AssemblyReference.cache
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\obj\Debug\CricketGame.exe
+\\srv-web-ad\DATA\Developers\CricketGame\Hemish\CricketGame-master\CricketGame\obj\Debug\CricketGame.pdb
